@@ -2,6 +2,5 @@ Examples/
 Examples/stories/
 Examples/stories/completed/
 Examples/stories/completed/DrawRectangle.eng
-Examples/stories/accepted/
-Examples/stories/accepted/DrawLine.eng
-Examples/stories/HelloWorld.eng
+Examples/stories/completed/DrawLine.eng
+Examples/stories/completed/HelloWorld.eng
